@@ -10,8 +10,9 @@ Interactive Design: Users can navigate and zoom in on different parts of the cir
 Educational Tool: Provides a fun and engaging way to learn about human anatomy.
 
 # Technologies Used
-3D Modeling Software: [Blender/SketchUp/Other 3D modeling tool used by Nesila]
+3D Modeling Software: artsteps
 Programming Languages: HTML, CSS, JavaScript
+Website Prototype: https://sistemocircolatorio.wixsite.com/sisteme-circolatorio
 
 # Project Structure
 /assets: Contains 3D models and textures used in the gallery.
