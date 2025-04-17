@@ -1,7 +1,9 @@
 # SISTEMO-CIRCOLATORIO
 Artesteps: 3D Gallery Planimetry of the Circulatory System
 
-Artesteps is an innovative project designed to create a 3D interactive gallery of the human circulatory system. This project combines art and technology to bring anatomical structures to life through 3D modeling and interactive design, allowing users to explore and learn about the human circulatory system in an engaging and informative way.
+Artesteps is an innovative project designed to create a 3D interactive gallery of the human circulatory system. 
+This project combines art and technology to bring anatomical structures to life through 3D modeling and interactive design, 
+allowing users to explore and learn about the human circulatory system in an engaging and informative way.
 
 # Features
 3D Gallery: Explore the circulatory system in an interactive 3D environment.
@@ -20,12 +22,26 @@ Website Prototype: https://sistemocircolatorio.wixsite.com/sisteme-circolatorio
 /docs: Documentation on the circulatory system for educational purposes.
 index.html: The main HTML file that serves as the entry point to the interactive gallery.
 
-# Contribution
-Contributions are welcome! If you have ideas or suggestions to improve this project, feel free to fork the repository, make changes, and submit a pull request.
-
-#License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 # Acknowledgments
 Thanks to the artsepts community for providing the tools to bring this vision to life.
 Special thanks to my teacher Jonida Varfi who have helped guide this project.
+
+# Circulatory System - Virtual Educational Project
+
+Welcome to the official repository of the _Circulatory System_ project 
+— a virtual educational exhibition created using Artsteps (https://www.artsteps.com/) 
+and developed as a school project to explore the human circulatory system.
+
+# Objectives
+- Provide interactive and descriptive resources on the cardiovascular system.
+- Share educational materials, blog posts, study guides, and multimedia content.
+- Offer an engaging digital learning platform for students.
+
+# Contents
+- Blog posts and thematic articles  
+- Informative images and videos  
+- Downloadable study plans  
+- Direct link to the Artsteps virtual exhibition  
+
+# Virtual Exhibition
+Visit the Exhibition on Artsteps (https://www.artsteps.com/view/your-link-goes-here)
